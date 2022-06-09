@@ -1,0 +1,11 @@
+Library Requirements:
+
+import numpy as np
+#import seaborn as sns
+import pandas as pd
+import random
+from bs4 import BeautifulSoup
+import requests
+from textblob import TextBlob
+#from pattern.en import sentiment
+import plotly.express as px
